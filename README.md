@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **MEARN stack project.**
+- 🔭 I’m currently working on **MERN stack project.**
 
 - 🌱 I’m currently learning **REACT js**
 
