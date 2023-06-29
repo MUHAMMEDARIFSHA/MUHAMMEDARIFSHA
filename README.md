@@ -19,3 +19,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedarifsha&show_icons=true&locale=en&layout=compact" alt="muhammedarifsha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedarifsha&" alt="muhammedarifsha" /></p>
+<a href="http://www.github.com/MUHAMMEDARIFSHA"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMEDARIFSHA&bg_color=ffffff&color=000000&line=000000&point=73ff00&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
+
+
