@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN stack project.**
 
-- 🌱 I’m currently learning **REACT js**
+ <!--🌱 I’m currently learning **REACT js**-->
 
 - 📫 Text a mail :!! **arifshamuhammed@gmail.com**
 
