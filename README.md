@@ -1,7 +1,7 @@
 <h1 align="center">MUHAMMED ARIFSHA</h1>
 <h3 align="center">I'm a MERN stack developer with a graduation in botany.</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedarifsha&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedarifsha" /> </p>
 
 - 🔭 I’m currently working on **MEARN stack project.**
 
