@@ -1,4 +1,4 @@
-<h1 align="center">Hi ,I'm MUHAMMED ARIFSHA</h1>
+<h1 align="center">MUHAMMED ARIFSHA</h1>
 <h3 align="center">I'm a MERN stack developer with a graduation in botany.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=MUHAMMEDARIFSHA&icon=0&color=0)](https://visitcount.itsvg.in)
